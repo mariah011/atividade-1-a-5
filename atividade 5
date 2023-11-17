@@ -1,0 +1,28 @@
+atividade 5
+<head>
+   <meta charset='utf-8'>
+   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+   <title> hsdciudbvf </title>
+   <meta name='viewport' content='width=device-width, initial-scale=1'>
+   <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+   <script src='main.js'></script>
+</head>
+<body>
+   <tableborder="1px">
+       <tr>
+           <th>Among Us</th>
+       </tr>
+       <tr>
+           <td>CAPA CAPA</td>
+           <td>TITULO</td>
+       </tr>
+       <tr>
+           <th>CAPA CAPA</th>
+       </tr>
+       <tr>
+           <td>cabeçalho 1</td>
+           <td>cabeçalho 2</td>
+       </tr>
+   </table>
+</body>
+</html>
